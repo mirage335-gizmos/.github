@@ -13,3 +13,21 @@ git clone --recursive git@github.com:mirage335/mirage335_documents.git
 https://raw.githubusercontent.com/mirage335/mirage335_documents/main/mirage335_documents.pdf
 
 
+
+
+
+_ Copyright _
+
+Usual mirage335's copyright policy (ie. usually GPLv3) will be followed. Unusally however, AI generated code (eg. from 'ChatGPT', 'Github Copilot') may be used in large quantity and deeply embedded. Particularly true of repositories related to any of the following:
+
+*) CARDinal
+*) game engine interoperability and development
+*) OpenHMD
+
+*) cognitionSplicer
+
+*) klipper firmware derivatives
+*) CAN bus software equivlalent
+
+
+
