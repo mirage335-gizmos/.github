@@ -21,12 +21,17 @@ _ Copyright _
 Usual mirage335's copyright policy (ie. usually GPLv3) will be followed. Unusally however, AI generated code (eg. from 'ChatGPT', 'Github Copilot') may be used in large quantity and deeply embedded. Particularly true of repositories related to any of the following:
 
 *) CARDinal
+
 *) game engine interoperability and development
+
 *) OpenHMD
+
 
 *) cognitionSplicer
 
+
 *) klipper firmware derivatives
+
 *) CAN bus software equivlalent
 
 
