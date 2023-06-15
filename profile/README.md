@@ -1,6 +1,8 @@
 
 Less of an 'organization' and more of a special distinction for repositories which are 'gizmos' - that is which implement components or systems specified by mirage335's universalTechnologySpecificationTextbook .
 
+Not necessarily, may or may not be, affiliated with any corporate entity (eg. LLC owned by mirage335).
+
 
 http://mirage335.member.hacdc.org
 
